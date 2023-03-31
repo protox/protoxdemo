@@ -1,9 +1,7 @@
 # protoxdemo
 **Simple Rust game demo for stress testing and benchmarking**
 
-[![Benchmark & Stress Test Rust with a Demo File]
-(https://img.youtube.com/vi/-caOOxWOncM/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=-caOOxWOncM)
+https://www.youtube.com/watch?v=-caOOxWOncM
 
 # Instructions
 
