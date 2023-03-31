@@ -1,6 +1,10 @@
 # protoxdemo
 **Simple Rust game demo for stress testing and benchmarking**
 
+[![Benchmark & Stress Test Rust with a Demo File]
+(https://img.youtube.com/vi/-caOOxWOncM/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=-caOOxWOncM)
+
 # Instructions
 
 To use this demo file simply download **protoxdemo.dem** and place it into **...\Steam\steamapps\common\Rust\demos directory**, if demos directory doesn't exist create it.
