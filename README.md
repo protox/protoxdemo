@@ -1,3 +1,5 @@
+# UPDATE May 24/2023: Unfortunately this demo is now broken, while it can still be used for benchmarking it doesn't run as intended and you will not move the correct way.
+
 # protoxdemo
 **Simple Rust game demo for stress testing and benchmarking**
 
